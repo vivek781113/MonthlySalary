@@ -31,19 +31,19 @@
                 var tax = rate * (s >= sal ? sal : s) / 100;
                 netTax += tax;
                 sal -= s;
-                Console.WriteLine($"s: {s} | r: {rate} | tax:{tax} | netTax: {netTax} | sal: {sal}");
+                //Console.WriteLine($"s: {s} | r: {rate} | tax:{tax} | netTax: {netTax} | sal: {sal}");
             }
             if (sal > 0) 
             {
                 var tax = (lastRate * sal / 100) ;
                 netTax += tax;
-                Console.WriteLine($"s: {sal} | r: {lastRate} | tax:{tax} | netTax: {netTax} | sal: {sal}");
+                //Console.WriteLine($"s: {sal} | r: {lastRate} | tax:{tax} | netTax: {netTax} | sal: {sal}");
             }
 
             var netSalary = salary - netTax;
             var monthlySalary = netSalary / 12;
-            Console.WriteLine($"netSalary: {netSalary} | monthlySalary: {monthlySalary}");
-            return (netTax, netSalary, monthlySalary);
+            //Console.WriteLine($"netSalary: {netSalary} | monthlySalary: {monthlySalary}");
+            return (Math.Round(netTax, 2), Math.Round(netSalary, 2), Math.Round(monthlySalary, 2));
         }
 
         internal static string ComputePayPeriod(string month)
