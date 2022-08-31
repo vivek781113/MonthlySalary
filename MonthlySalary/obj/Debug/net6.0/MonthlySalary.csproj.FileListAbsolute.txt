@@ -1,0 +1,15 @@
+C:\Users\vivek.t\workspace\console-vk\MonthlySalary\MonthlySalary\MonthlySalary\bin\Debug\net6.0\MonthlySalary.exe
+C:\Users\vivek.t\workspace\console-vk\MonthlySalary\MonthlySalary\MonthlySalary\bin\Debug\net6.0\MonthlySalary.deps.json
+C:\Users\vivek.t\workspace\console-vk\MonthlySalary\MonthlySalary\MonthlySalary\bin\Debug\net6.0\MonthlySalary.runtimeconfig.json
+C:\Users\vivek.t\workspace\console-vk\MonthlySalary\MonthlySalary\MonthlySalary\bin\Debug\net6.0\MonthlySalary.dll
+C:\Users\vivek.t\workspace\console-vk\MonthlySalary\MonthlySalary\MonthlySalary\bin\Debug\net6.0\MonthlySalary.pdb
+C:\Users\vivek.t\workspace\console-vk\MonthlySalary\MonthlySalary\MonthlySalary\obj\Debug\net6.0\MonthlySalary.csproj.AssemblyReference.cache
+C:\Users\vivek.t\workspace\console-vk\MonthlySalary\MonthlySalary\MonthlySalary\obj\Debug\net6.0\MonthlySalary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivek.t\workspace\console-vk\MonthlySalary\MonthlySalary\MonthlySalary\obj\Debug\net6.0\MonthlySalary.AssemblyInfoInputs.cache
+C:\Users\vivek.t\workspace\console-vk\MonthlySalary\MonthlySalary\MonthlySalary\obj\Debug\net6.0\MonthlySalary.AssemblyInfo.cs
+C:\Users\vivek.t\workspace\console-vk\MonthlySalary\MonthlySalary\MonthlySalary\obj\Debug\net6.0\MonthlySalary.csproj.CoreCompileInputs.cache
+C:\Users\vivek.t\workspace\console-vk\MonthlySalary\MonthlySalary\MonthlySalary\obj\Debug\net6.0\MonthlySalary.dll
+C:\Users\vivek.t\workspace\console-vk\MonthlySalary\MonthlySalary\MonthlySalary\obj\Debug\net6.0\refint\MonthlySalary.dll
+C:\Users\vivek.t\workspace\console-vk\MonthlySalary\MonthlySalary\MonthlySalary\obj\Debug\net6.0\MonthlySalary.pdb
+C:\Users\vivek.t\workspace\console-vk\MonthlySalary\MonthlySalary\MonthlySalary\obj\Debug\net6.0\MonthlySalary.genruntimeconfig.cache
+C:\Users\vivek.t\workspace\console-vk\MonthlySalary\MonthlySalary\MonthlySalary\obj\Debug\net6.0\ref\MonthlySalary.dll
